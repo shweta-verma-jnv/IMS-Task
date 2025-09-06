@@ -18,15 +18,6 @@ Generates synthetic data for testing recommendation scenarios.
 Written in JavaScript (Node.js) with simple, readable code.
 Educational focus: Helps beginners understand how recommendation logic can be set up step by step.
 
-Project Structure
-Event_RecSys_Challenge_ShwetaVerma/
-│── event_recommendation_data.json   # Sample dataset of events
-│── package.json                     # Dependencies and project metadata
-│── test.js                          # Script to test the recommendation logic
-│── src/
-│   ├── index.js                     # Main entry point (runs the system)
-│   └── data-generator.js            # Generates sample/synthetic event data
-
 Dataset
 The project uses a JSON file (event_recommendation_data.json) to simulate events.
 Each entry may include attributes like:
